@@ -5,4 +5,4 @@ This program reads in a list of waypoints of a racing track and the track width 
 
 The algorithm used does not reflect a true racing line, though it may be able to generate very good approximations.
 
-As of now, the program is not functioning perfectly, the algorithm seems to make poor node choices in certain circumstances.
+As of now, the program is not functioning perfectly, the algorithm seems to make poor node choices under certain circumstances.
